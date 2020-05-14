@@ -28,7 +28,7 @@ void PrincipalMenu(){
         switch (choice){
 
         case 1:
-            LoadGame();
+            ;
         break;
         case 2:
             HighScore();
@@ -49,11 +49,4 @@ void HighScore(){
     printf("The High Score Board\n");
 }
 
-void LoadGame(){
-    string pseudo;
-    Header();
-    printf("Please enter your name\n");
-    scanf("%s",&pseudo);
-    printf("pseudo %s",pseudo);
 
-}
