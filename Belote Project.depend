@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1588258255 source:c:\users\vaynt\onedrive\documents\tc 02\ife\belote project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+
+1588260104 c:\users\vaynt\onedrive\documents\tc 02\ife\belote project\functions.h
+	<stdio.h>
+	<stdlib.h>
+
+1588259398 source:c:\users\vaynt\onedrive\documents\tc 02\ife\belote project\functions.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+
