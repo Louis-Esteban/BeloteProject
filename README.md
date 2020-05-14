@@ -1,1 +1,1 @@
-# BeloteProject
+# Magnifique Projet de Belote
